@@ -2,6 +2,7 @@
 
 int main() {
 
+  // estruturas de decisão encadeadas
   int idade;
 
   printf("Qual é a sua idade? ");
@@ -22,6 +23,11 @@ int main() {
   else {
     printf("Você é idoso!");
   }
+
+  // estruturas de decisao aninhadas
+  // if (condicao) {
+  //   if (condicao) 
+  //     códigocódigocódigo }
 
   return 0;
 }
